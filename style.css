@@ -3,3 +3,37 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+header .headline{
+	width: 100%;
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom center;
+}
+
+header .head-text{
+	color: #808080;
+	padding: 20px 0 0 20px;
+}
+
+main{
+	margin: 0 auto;
+	width: 840px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.content-list{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #808080;
+}
+
+.content-text{
+	color: #808080;
+}
+
+.link{
+	color: #808080;
+}
